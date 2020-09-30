@@ -18,4 +18,4 @@ make -j4
 sudo make install
 ```
 
-_Note: make -j4 the 4 is meand your number of core processor of your computer.
+Note: make -j4 the 4 is meand your number of core processor of your computer.
